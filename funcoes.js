@@ -1,5 +1,5 @@
 function trocarTexto() {
-    var text = "Seu cuzão";
+    var text = "Comando Trocar Texto";
 
     $(document).find('#texto').html(text);
     alert('HAHAHHAA :D');
